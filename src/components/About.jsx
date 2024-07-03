@@ -10,7 +10,7 @@ const About = () => {
                 <h2 className='text-6xl text-[#212121] mt-2'>Our approach</h2>
                 <button className='bg-[#212121] mt-6 rounded-[50px] border-[0px] py-4 px-10 text-xl uppercase leading-tight text-white'>Read more</button>
             </div>
-            <div className='w-1/2 h-[70vh] bg-[#b0c859] rounded-3xl mt-5'></div>
+            <div className='w-1/2 h-[70vh] bg-[#b0c859] rounded-3xl mt-5 bg-[url("https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg")] bg-center bg-cover'></div>
         </div>
     </div>
   )
